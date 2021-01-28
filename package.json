@@ -1,0 +1,29 @@
+{
+  "name": "typescript-primer",
+  "version": "0.0.1",
+  "description": "this is for ism209",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oseremen-creator/typescript-primer.git"
+  },
+  "keywords": [
+    "vscode",
+    "typescript",
+    "package"
+  ],
+  "author": "Oseremen Ojesebholo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oseremen-creator/typescript-primer/issues"
+  },
+  "homepage": "https://github.com/oseremen-creator/typescript-primer#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "typescript": "^4.1.3"
+  }
+}
